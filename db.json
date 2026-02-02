@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@tienda.com",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "paisa@correo.com",
+      "password": "456",
+      "role": "user"
+    }
+  ],
+  "orders": []
+}
